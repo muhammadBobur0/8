@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Samarqand",
+        "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure fugit veritatis a earum iste at similique officia laborum. Hic vel debitis accusantium alias quis iste harum qui molestias reprehenderit unde!",
+        "time": "19.11.2022"
+    },
+    {
+        "id": 2,
+        "title": "Andijon",
+        "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure fugit veritatis a earum iste at similique officia laborum. Hic vel debitis accusantium alias quis iste harum qui molestias reprehenderit unde!",
+        "time": "19.11.2022"
+    },
+    {
+        "id": 4,
+        "title": "Buhoro",
+        "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure fugit veritatis a earum iste at similique officia laborum. Hic vel debitis accusantium alias quis iste harum qui molestias reprehenderit!",
+        "time": "19.11.2022"
+    },
+    {
+        "id": 5,
+        "title": "nok",
+        "body": "Nok juda shirin",
+        "time": "2022-11-19T11:24:04.402Z"
+    }
+]
